@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\bin\Debug\net6.0\IteratorBooks.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\bin\Debug\net6.0\IteratorBooks.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\bin\Debug\net6.0\IteratorBooks.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\bin\Debug\net6.0\IteratorBooks.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\bin\Debug\net6.0\IteratorBooks.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\IteratorBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\IteratorBooks.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\IteratorBooks.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\IteratorBooks.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\IteratorBooks.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\refint\IteratorBooks.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\IteratorBooks.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\IteratorBooks.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\IteratorBooks\obj\Debug\net6.0\ref\IteratorBooks.dll
