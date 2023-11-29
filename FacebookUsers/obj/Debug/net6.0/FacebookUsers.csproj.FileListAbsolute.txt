@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\FacebookUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\FacebookUsers.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\FacebookUsers.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\FacebookUsers.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\bin\Debug\net6.0\FacebookUsers.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\bin\Debug\net6.0\FacebookUsers.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\bin\Debug\net6.0\FacebookUsers.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\bin\Debug\net6.0\FacebookUsers.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\bin\Debug\net6.0\FacebookUsers.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\FacebookUsers.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\refint\FacebookUsers.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\FacebookUsers.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\FacebookUsers.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Iterator\FacebookUsers\obj\Debug\net6.0\ref\FacebookUsers.dll
